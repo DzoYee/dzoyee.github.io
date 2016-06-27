@@ -265,7 +265,12 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/DSC_0825.JPG);
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../img/DSC_0825.JPG);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
